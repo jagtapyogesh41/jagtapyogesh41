@@ -18,7 +18,7 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
     <a href="https://www.linkedin.com/in/yogesh-jagtap-938194200/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/yogesh-jagtap-938194200/" />
     </a>
-    <a href="https://yogeshjagtap-protfolio.netlify.app/">
+    <a href="https://yogeshjagtap41-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ubiquitous-brioche-e66497.netlify.app/" />
     </a>
     <a title="jagtapyogesh41@gmail.com" href="https://drive.google.com/file/d/17th9vb1WLYx1gna0cyJmf66HRuKeN75M/view?usp=sharing">
